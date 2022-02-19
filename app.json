@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/logi_channel",
-    "repository": "https://github.com/LOGI-LAP/music-video-streamer",
+    "repository": "https://github.com/Riswanmd16/music-video-streamer",
     "success_url": "https://t.me/cl_me_logesh",
     "env": {
         "API_ID": {
